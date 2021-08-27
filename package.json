@@ -1,0 +1,22 @@
+{
+  "name": "integro_fullstack",
+  "version": "1.0.0",
+  "description": "- Create a FORK of this project\r - Create a BRANCH from your first name\r - Solve the tests below\r - COMMIT your changes and open a PULL REQUEST for the branch MASTER",
+  "main": "test2.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/albeiromr/integro_fullstack.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/albeiromr/integro_fullstack/issues"
+  },
+  "homepage": "https://github.com/albeiromr/integro_fullstack#readme",
+  "dependencies": {
+    "jest": "^27.1.0"
+  }
+}

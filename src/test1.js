@@ -1,4 +1,4 @@
-<?php
+
 
 function is_palindrome($input) {
     //solve this method that says if the sentence is palindrome or not
